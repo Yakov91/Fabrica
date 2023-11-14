@@ -1,2 +1,4 @@
-package org.example;public class Cheese {
+package org.example;
+
+public class Cheese extends Pizza {
 }
